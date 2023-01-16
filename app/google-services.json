@@ -8,6 +8,38 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:1059489949573:android:ee8fc4f8e47fe5d54fc6ec",
+        "android_client_info": {
+          "package_name": "com.argz.issue3774"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059489949573-82qmis7mdt4qtmmq3cu1m3pdsjacq3fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
+        },
+        {
+          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059489949573-82qmis7mdt4qtmmq3cu1m3pdsjacq3fb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:1059489949573:android:9eb04a982752e8424fc6ec",
         "android_client_info": {
           "package_name": "com.argz.issue3826"
@@ -21,10 +53,10 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
+          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
         },
         {
-          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
+          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
         }
       ],
       "services": {
@@ -53,10 +85,10 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
+          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
         },
         {
-          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
+          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
         }
       ],
       "services": {
@@ -85,10 +117,10 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
+          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
         },
         {
-          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
+          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
         }
       ],
       "services": {
@@ -117,10 +149,10 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
+          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
         },
         {
-          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
+          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
         }
       ],
       "services": {
@@ -149,10 +181,10 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
+          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
         },
         {
-          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
+          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
         }
       ],
       "services": {
@@ -181,74 +213,10 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
+          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
         },
         {
-          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "1059489949573-82qmis7mdt4qtmmq3cu1m3pdsjacq3fb.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:1059489949573:android:fe95f0cf82119b124fc6ec",
-        "android_client_info": {
-          "package_name": "com.argz.issue3885"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "1059489949573-82qmis7mdt4qtmmq3cu1m3pdsjacq3fb.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
           "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
-        },
-        {
-          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "1059489949573-82qmis7mdt4qtmmq3cu1m3pdsjacq3fb.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:1059489949573:android:cc98c239f0581c2b4fc6ec",
-        "android_client_info": {
-          "package_name": "com.argz.issue3894"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "1059489949573-82qmis7mdt4qtmmq3cu1m3pdsjacq3fb.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
-        },
-        {
-          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
         }
       ],
       "services": {
@@ -277,10 +245,10 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
+          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
         },
         {
-          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
+          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
         }
       ],
       "services": {
@@ -309,10 +277,10 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
+          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
         },
         {
-          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
+          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
         }
       ],
       "services": {
@@ -341,10 +309,10 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
+          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
         },
         {
-          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
+          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
         }
       ],
       "services": {
@@ -373,10 +341,10 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
+          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
         },
         {
-          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
+          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
         }
       ],
       "services": {
@@ -405,10 +373,10 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
+          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
         },
         {
-          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
+          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
         }
       ],
       "services": {
@@ -437,10 +405,10 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
+          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
         },
         {
-          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
+          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
         }
       ],
       "services": {
@@ -469,10 +437,10 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
+          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
         },
         {
-          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
+          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
         }
       ],
       "services": {
@@ -501,10 +469,10 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
+          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
         },
         {
-          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
+          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
         }
       ],
       "services": {
@@ -533,10 +501,10 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
+          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
         },
         {
-          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
+          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
         }
       ],
       "services": {
@@ -565,10 +533,10 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
+          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
         },
         {
-          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
+          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
         }
       ],
       "services": {
@@ -597,10 +565,10 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
+          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
         },
         {
-          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
+          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
         }
       ],
       "services": {
@@ -629,10 +597,10 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
+          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
         },
         {
-          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
+          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
         }
       ],
       "services": {
@@ -661,10 +629,10 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
+          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
         },
         {
-          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
+          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
         }
       ],
       "services": {
@@ -693,10 +661,10 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
+          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
         },
         {
-          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
+          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
         }
       ],
       "services": {
@@ -719,24 +687,16 @@
       },
       "oauth_client": [
         {
-          "client_id": "1059489949573-oeood8cs9ggvniab8od4a65s5hahhaa8.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.argz.issue4198",
-            "certificate_hash": "56a562b38afba644e8f15da9b7bc6566ab050d71"
-          }
-        },
-        {
           "client_id": "1059489949573-82qmis7mdt4qtmmq3cu1m3pdsjacq3fb.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
+          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
         },
         {
-          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
+          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
         }
       ],
       "services": {
@@ -765,10 +725,10 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
+          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
         },
         {
-          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
+          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
         }
       ],
       "services": {
@@ -797,10 +757,42 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
+          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
         },
         {
+          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059489949573-82qmis7mdt4qtmmq3cu1m3pdsjacq3fb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059489949573:android:0203365ec542a2d24fc6ec",
+        "android_client_info": {
+          "package_name": "com.google.firebase.example.fireeats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059489949573-82qmis7mdt4qtmmq3cu1m3pdsjacq3fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
           "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
+        },
+        {
+          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
         }
       ],
       "services": {
@@ -829,10 +821,10 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
+          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
         },
         {
-          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
+          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
         }
       ],
       "services": {
@@ -855,16 +847,24 @@
       },
       "oauth_client": [
         {
+          "client_id": "1059489949573-pfcfm6adqi7aol2gsgjhuqp8oblp7prm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.quickstart.auth",
+            "certificate_hash": "56a562b38afba644e8f15da9b7bc6566ab050d71"
+          }
+        },
+        {
           "client_id": "1059489949573-82qmis7mdt4qtmmq3cu1m3pdsjacq3fb.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
+          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
         },
         {
-          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
+          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
         }
       ],
       "services": {
@@ -893,10 +893,10 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
+          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
         },
         {
-          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
+          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
         }
       ],
       "services": {
@@ -925,10 +925,10 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
+          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
         },
         {
-          "current_key": "AIzaSyARl0p_NIyfwDvsh8_eM7jz9Q2lkGnEZBQ"
+          "current_key": "AIzaSyB13VtLPwiC2HiCTPTW0E-OvvhFisJ11FI"
         }
       ],
       "services": {
